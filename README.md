@@ -27,7 +27,7 @@ I have mastered the ways of scalability, efficiency, and ruthless optimization, 
 - Your **favorite tech stack** is just Stockholm syndrome.
 - There's no such thing as **'temporary' code**.
 
-### (°▽°)/Connect
+### (°▽°)/ Connect
 
 - 🗨️ Discord: @deviantr
 - 🗨️ Substack: @ioan240298
