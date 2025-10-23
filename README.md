@@ -6,7 +6,7 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓██████▓▒░  
-:: ivintoiu ::                                         (v.2.5.10)   
+:: ivintoiu ::                                         (v.19.7.1)   
 </pre>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%3E_+My+bugs+are+written+in+Java%2C+Python%2C+or+.NET%2FC%23)](https://git.io/typing-svg)
 ### (。_。) Read Me
