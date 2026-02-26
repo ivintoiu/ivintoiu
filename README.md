@@ -8,7 +8,7 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓██████▓▒░  
 :: owner:ivintoiu ::                                   (v.19.7.1)   
 </pre>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+or+.NET%2CCore%2FC%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+or+.NET+Core%2FC%23)](https://git.io/typing-svg)
 
 ### Read Me (。_。) 
 
