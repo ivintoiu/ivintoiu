@@ -45,10 +45,10 @@ flowchart TD
     A[Problem / Task] --> B[Architecture Exploration]
     A --> C[Code Review]
     A --> D[Documentation & Test Generation]
-    A --> E[Design‑First Collaboration<br/>via Skills / Agents]
+    A --> E[Spec Driven Development<br/>via Skills / Agents]
     A --> F[Upskilling & Learning]
 
-    B --> G[Claude / ClaudeCLI / Anthropic Platform]
+    B --> G["Anthropic & Google Suites<br>---<br>• Claude Console / Google AI Studio<br>• Claude CLI / NotebookLM<br>"]
     C --> G
     D --> G
     E --> G
@@ -56,6 +56,20 @@ flowchart TD
     
     G --> J[Refined Output]
     J --> K[Implementation / Decision / Delivery]
+
+    %% Color Palette Styles
+    style A fill:#4A5568,stroke:#2D3748,stroke-width:2px,color:#FFF
+    
+    style B fill:#EDF2F7,stroke:#CBD5E0,stroke-width:1px,color:#2D3748
+    style C fill:#EDF2F7,stroke:#CBD5E0,stroke-width:1px,color:#2D3748
+    style D fill:#EDF2F7,stroke:#CBD5E0,stroke-width:1px,color:#2D3748
+    style E fill:#EDF2F7,stroke:#CBD5E0,stroke-width:1px,color:#2D3748
+    style F fill:#EDF2F7,stroke:#CBD5E0,stroke-width:1px,color:#2D3748
+    
+    style G fill:#EBF8FF,stroke:#3182CE,stroke-width:2px,color:#2B6CB0
+    
+    style J fill:#F0FFF4,stroke:#38A169,stroke-width:1px,color:#22543D
+    style K fill:#38A169,stroke:#22543D,stroke-width:2px,color:#FFF
 ```
 
 ## Call to Action (°▽°)/ 
