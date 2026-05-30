@@ -6,18 +6,13 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓██████▓▒░  
-:: owner:ivintoiu ::                                   (v.19.7.1)   
+:: owner:ivintoiu ::                                   (v.1.9.71)   
 </pre>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+or+.NET+Core%2FC%23)](https://git.io/typing-svg)
-
-
-## Engineering Leader, Distributed Systems Architect, and Passionate Developer
-I build and scale engineering teams, design distributed systems, and help business turn ideas into production‑ready software.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+.NET+Core...and+willpower;%3E_+Leading+teams%2C+shipping+systems%2C+negotiating+with+legacy+code;%3E_+Distributed+systems%2C+clean+architecture%2C+and+questionable+life+choices)](https://git.io/typing-svg)
 
 ## A long time ago, in a codebase far, far away... (。_。)
 
-I was once a mere developer, but the flaws of legacy systems and spaghetti code led me to the dark side of engineering. Now, I forge high-performing software teams, or architect and implement distributed systems as vast and unstoppable as the Empire itself.
-I have mastered the ways of scalability, maintainability, reliability, availability, efficiency, and ruthless optimization. I do not simply learn. I assimilate knowledge.
+I was once a happy developer, but the flaws of legacy systems, outages, spaghetti code, and architectural crimes pushed me to learn the Matukay ways of engineering and leadership. Now, I forge high-performing software teams, architect and implement distributed systems, and eliminate chaos with scalability, reliability, and ruthless simplicity.
 
 ## Things I Wish Someone Told Me Earlier ¯\(°_o)/¯ 
 
@@ -32,12 +27,14 @@ I have mastered the ways of scalability, maintainability, reliability, availabil
 
 ## Tech Arsenal
 
-**Languages:** Java, Python, C#, SQL  
-**Systems:** Kafka, Redis, PostgreSQL, gRPC, RabbitMQ  
-**Cloud:** AWS, Azure  
-**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions 
+- **Backend & Distributed Systems:** Java, Python, C#, Kafka, gRPC, Redis, RabbitMQ
+- **Data & Storage:** PostgreSQL, SQL, caching strategies
+- **Cloud & Infra:** AWS, Azure, Docker, k8s, Terraform
+- **Delivery & Reliability:** GitHub Actions, CI/CD, SRE practices, observability pipelines
 
 ## AI Workflow
+
+Architecture, code review, documentation, specs, and continuous learning are all accelerated by AI tooling.
 
 ```mermaid
 flowchart TD
@@ -72,9 +69,13 @@ flowchart TD
     style K fill:#38A169,stroke:#22543D,stroke-width:2px,color:#FFF
 ```
 
-## Call to Action (°▽°)/ 
+>
+> If you’ve read this far, you’re either a recruiter, a developer, or a very patient human. All are welcome.
+> 
 
-Seeking a co-pilot to navigate complex hyperspace routes? Need assistance constructing a new base on Korriban? Send a transmission and let's align our forces.
+## Call to Action
+
+Seeking a co-pilot to navigate complex hyperspace routes? Need assistance constructing a new base on Jedha? Send a transmission and let's align our forces to shape the balance of the galaxy.
 
 - 🗨️ Discord:  @deviantr
 - 🗨️ Substack: @ioan240298
