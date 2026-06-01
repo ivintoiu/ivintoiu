@@ -8,7 +8,8 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓██████▓▒░  
 :: owner:ivintoiu ::                                   (v.1.9.71)   
 </pre>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+.NET+Core...and+willpower;%3E_+Leading+teams%2C+shipping+systems%2C+negotiating+with+legacy+code;%3E_+Distributed+systems%2C+clean+architecture%2C+and+questionable+life+choices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=%3E_+The+code+I+ship+runs+on+Java%2C+Python3%2C+.NET+Core...and+willpower;%3E_+Leading+teams%2C+shipping+systems%2C+negotiating+with+legacy+code;%3E_+Distributed+systems%2C+clean+architecture%2C+and+questionable+life+choices;%3E_+Breaking+monoliths+into+services+%28and+occasionally+into+flames%29;%3E_+SRE+mindset%3A+SLIs%2C+SLOs%2C+and+fewer+3AM+incidents;%3E_+Mentoring+engineers%2C+debugging+org+charts%2C+refactoring+processes)](https://git.io/typing-svg)
+
 
 ## A long time ago, in a codebase far, far away... (。_。)
 
@@ -82,3 +83,8 @@ Seeking a co-pilot to navigate complex hyperspace routes? Need assistance constr
 - 🗨️ reddit:   u/ivi4reddit
 - 🗨️ X:        @ioanvintoiu
 
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Random Dev Quote"/>
+</div>
