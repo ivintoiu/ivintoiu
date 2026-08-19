@@ -46,13 +46,14 @@ flowchart TD
     A --> E[Spec Driven Development<br/>via Skills / Agents]
     A --> F[Upskilling & Learning]
 
-    B --> G["Anthropic & Google Suites<br>---<br>• Claude Console / Google AI Studio<br>• Claude CLI / NotebookLM<br>"]
+    B --> G["AI Tooling Stack<br>------------------------<br>• Anthropic: Claude Console / Claude CLI<br>• Google Antigravity (agentic IDE)<br>• LangChain: LangGraph (orchestration) / LangSmith (observability)"]
     C --> G
     D --> G
     E --> G
     F --> G
     
     G --> J[Refined Output]
+    J --> G
     J --> K[Implementation / Decision / Delivery]
 
     %% Color Palette Styles
